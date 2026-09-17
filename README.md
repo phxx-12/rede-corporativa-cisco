@@ -229,43 +229,35 @@ Conectividade após correção do cenário de troubleshooting.
 
 ### Topologia final
 
-![Topologia final]
-(imagens/topologia-final.png)
+![Topologia final](topologia-final.png)
 
 ### EtherChannel e LACP
 
-![EtherChannel e LACP]
-(imagens/etherchannel-lacp.png)
+![EtherChannel e LACP](etherchannel-lacp.png)
 
 ### Trunk 802.1Q
 
-![Trunk 802.1Q]
-(imagens/trunk.png)
+![Trunk 802.1Q](trunk.png)
 
 ### Router-on-a-Stick
 
-![Router-on-a-Stick]
-(imagens/router-on-a-stick.png)
+![Router-on-a-Stick](router-on-a-stick.png)
 
 ### Interfaces do R1
 
-![Interfaces do R1]
-(imagens/interfaces-r1.png)
+![Interfaces do R1](interfaces-r1.png)
 
 ### DHCP
 
-![DHCP]
-(imagens/dhcp-pools.png)
+![DHCP](dhcp-pools.png)
 
 ### Validação de conectividade
 
-![Ping]
-(imagens/ping-vlan-10.png)
+![Ping](ping-vlan-10.png)
 
 ### Hardening
 
-![Hardening]
-(imagens/hardening.png)
+![Hardening](hardening.png)
 
 📂 Estrutura do projeto
 rede-corporativa-cisco/
